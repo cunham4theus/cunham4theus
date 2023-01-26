@@ -23,7 +23,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cunham4theus/) 
- ![texto](https://media.licdn.com/dms/image/C4D22AQHVAsyP5jM0YQ/feedshare-shrink_2048_1536/0/1674746975994?e=1677715200&v=beta&t=Bc95G-kecHf8spR5G6O76TQ5ttDJDdooIodQb91f5oM) 
+ ![texto](https://im5.ezgif.com/tmp/ezgif-5-1675a9b5a1.gif) 
 
 
 
