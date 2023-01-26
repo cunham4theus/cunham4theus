@@ -6,7 +6,7 @@
 
 
 
-
+ ![texto](https://media.licdn.com/dms/image/C4D22AQHVAsyP5jM0YQ/feedshare-shrink_2048_1536/0/1674746975994?e=1677715200&v=beta&t=Bc95G-kecHf8spR5G6O76TQ5ttDJDdooIodQb91f5oM) 
 
   ![](https://github-readme-stats.vercel.app/api?username=cunham4theus&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=cunham4theus&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
