@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/cunham4theus/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cunham4theus/cunham4theus/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
