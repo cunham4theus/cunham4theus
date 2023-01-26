@@ -12,6 +12,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cunham4theus&bg_color=000404&color=006256&line=006256&point=A4E0D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cunham4theus&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
