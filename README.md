@@ -26,10 +26,10 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/cunham4theus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://instagram.com/cunham4theus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <!-- <a href = "mailto:cmp.1a.cunhamatheus.m4@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-<a href="https://www.linkedin.com/in/cunham4theus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+  <a href="https://www.linkedin.com/in/cunham4theus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
  
 <div align="center"> 
   <h1> Main skills: </h1>
@@ -51,11 +51,14 @@
   <img width="12.4%" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp; 
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cunham4theus}/count.svg" /></p> 
-<br>
-</div>
+ <br>
+ <br>
+ 
+ <div align="center">
+  <h2>Visitor count</h2>
+  <br>
+  <img src="https://profile-counter.glitch.me/{ cunham4theus }/count.svg">
+ </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006256&height=120&section=footer"/>
