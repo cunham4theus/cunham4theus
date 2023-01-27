@@ -3,8 +3,8 @@
 
 **cunham4theus/cunham4theus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-   <audio autoplay>
-      <source src="https://www.youtube.com/watch?v=XXZ7z3v8j04&list=RDXXZ7z3v8j04&start_radio=1" type="audio/mpeg">
+   <audio autoplay src="https://www.youtube.com/watch?v=XXZ7z3v8j04&list=RDXXZ7z3v8j04&start_radio=1" type="audio/mp3">
+      
    </audio>
 
 
