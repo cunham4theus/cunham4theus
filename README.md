@@ -6,7 +6,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006256&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006256&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Brenner;I'm+from+Brazil;I'm+a+Web+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006256&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Cunha;I'm+from+Brazil;I'm+a+Web+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  ![texto](https://raw.githubusercontent.com/cunham4theus/portfoliov3/main/assets/Img/ezgif.com-gif-maker.gif) 
 
